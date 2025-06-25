@@ -29,14 +29,11 @@
 🔹 [**Work-Chronicle**](https://github.com/RadoslavNikolov23/Work-Chronicle)  
 *A small is designed to help you manage and track your work shifts with ease.*
 
-🔹 [**Password Generator**](https://github.com/RadoslavNikolov23/PasswordGenerator)  
-*An interactive password generator using HTML, CSS & TypeScript.*  
-
 🔹 [**CurrencyExchange**](https://github.com/RadoslavNikolov23/CurrencyExchange)  
 *A single-page ASP.NET Core Web API project for currency exchange.*  
 
-🔹 [**SoftUni-Exercises**](https://github.com/RadoslavNikolov23/SoftUni-Exercises)  
-*All course exercises from my Software University training.*
+🔹 [**Password Generator**](https://github.com/RadoslavNikolov23/PasswordGenerator)  
+*An interactive password generator using HTML, CSS & TypeScript.*  
 
 
 ## 🌐 Connect with Me
