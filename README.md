@@ -8,8 +8,8 @@
 
 ## 💼 Current Focus
 
-- 🌱 Learning advanced **C#**, **ASP.NET Core**, and **.NET MAUI**
-- 💻 Building full-stack web apps with **SQL**, **EF Core**, and **TypeScript**
+- 🌱 Learning to become a .Net Developer advanced.
+- 💻 Building full-stack web apps with **C#**, **ASP.NET Core**, and **.NET MAUI**
 - 🚀 Exploring real-world applications through personal and university projects
 
 ---
