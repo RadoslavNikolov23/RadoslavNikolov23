@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Radoslav Nikolov
 
-🎯 I’m a motivated and detail-oriented **career-changer** currently training to become a **C# Developer**. With a Master’s degree in Law and professional experience as an inspector, I bring strong analytical thinking, discipline, and a team-oriented mindset to the tech world.
+🎯 I’m a motivated and detail-oriented **career-changer** currently training to become a **C# Developer**. With a Master’s degree in Law and professional experience, that brings strong analytical thinking, discipline, and a team-oriented mindset to the tech world.
 
 🌍 Based in **Ruse, Bulgaria**, I’m currently enrolled in **Software University (SoftUni)** studying **Software Engineering with C#**.
 
