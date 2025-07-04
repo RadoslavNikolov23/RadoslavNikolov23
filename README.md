@@ -16,12 +16,38 @@
 
 ## 🧰 Tech Stack
 
-**Languages:**  
-`C#` `TypeScript` `C++` `HTML` `CSS`
+### 👨‍💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40"/>
+</p>
 
-**Frameworks & Tools:**  
-`.NET MAUI` `ASP.NET Core MVC & Razor` `Entity Framework Core` `Microsoft SQL Server` `PostgreSQL`  
-`Visual Studio` `VS Code` `Git/GitHub` `SSMS` `PgAdmin`
+### 🧱 Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40"/>
+  <img src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fms-dotnettools.gallerycdn.vsassets.io%2Fextensions%2Fms-dotnettools%2Fdotnet-maui%2F0.9.3%2F1707942975002%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1&ipt=6c0f2fadc9a5b232d0452f0e86c4940cff89a8f70ee5b2bb15bca7ec84e43258" alt=".NET MAUI" width="40"/>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frichardwillis.gallerycdn.vsassets.io%2Fextensions%2Frichardwillis%2Fvscode-entity-framework%2F0.0.14%2F1673649439016%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1&ipt=9f33a42d8ab6daacc6e9d27237d4e725f4e6d6f52f776b1767a06980251b3939" alt="Entity Framework Core" width="40"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
+</p>
+
+### 🛠️ Tools & IDEs
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SSMS" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
+</p>
+
+
 
 
 ## 📂 Projects
