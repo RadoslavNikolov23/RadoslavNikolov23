@@ -29,7 +29,6 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40"/>
   <img src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fms-dotnettools.gallerycdn.vsassets.io%2Fextensions%2Fms-dotnettools%2Fdotnet-maui%2F0.9.3%2F1707942975002%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1&ipt=6c0f2fadc9a5b232d0452f0e86c4940cff89a8f70ee5b2bb15bca7ec84e43258" alt=".NET MAUI" width="40"/>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frichardwillis.gallerycdn.vsassets.io%2Fextensions%2Frichardwillis%2Fvscode-entity-framework%2F0.0.14%2F1673649439016%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1&ipt=9f33a42d8ab6daacc6e9d27237d4e725f4e6d6f52f776b1767a06980251b3939" alt="Entity Framework Core" width="40"/>
 </p>
 
 ### 🗄️ Databases
