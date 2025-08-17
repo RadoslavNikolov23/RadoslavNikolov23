@@ -51,11 +51,11 @@
 
 ## 📂 Projects
 
+🔹 [**Sport Center Victory**](https://github.com/RadoslavNikolov23/SportCenterVictory)  
+*An ASP.NET Core MVC project for managing a sports center, including user memberships, programs, store, and events.*  
+
 🔹 [**Work-Chronicle**](https://github.com/RadoslavNikolov23/Work-Chronicle)  
 *An android application designed to help you manage and track your work shifts with ease.*
-
-🔹 [**CurrencyExchange**](https://github.com/RadoslavNikolov23/CurrencyExchange)  
-*A single-page ASP.NET Core Web API project for currency exchange.*  
 
 🔹 [**Password Generator**](https://github.com/RadoslavNikolov23/PasswordGenerator)  
 *An interactive password generator using HTML, CSS & TypeScript.*  
