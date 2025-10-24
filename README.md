@@ -70,7 +70,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=RadoslavNikolov23&theme=gruvbox&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=RadoslavNikolov23&theme=gruvbox&no-bg=true&title=MultiLanguage,Commits,Repositories,PullRequest,Experience,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
