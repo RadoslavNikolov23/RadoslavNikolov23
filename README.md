@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Radoslav Nikolov
 
-🎯 I’m a motivated and detail-oriented **career-changer** currently learning to become a **C# Developer**. With a Master’s degree in Law and professional experience, that brings strong analytical thinking, discipline, and a team-oriented mindset to the tech world.
+🎯 Back-End Developer specializing in C# and .NET, graduated from SoftUni’s Software Engineering program. With a Master’s degree in Law and experience as an inspector, I bring strong analytical thinking, discipline, and a structured approach to solving complex problems.
 
-🌍 Based in **Ruse, Bulgaria**, I’m currently enrolled in **Software University (SoftUni)** studying **Software Engineering with C#**.
+🌍 Based in **Ruse, Bulgaria**, I’m an **Inspector at the Customs Agency** and a graduate of **SoftUni’s Software Engineering program (C# / .NET)**, actively transitioning into a Back-End Developer role.
 
 ---
 
 ## 💼 Current Focus
 
-- 🌱 Learning to become a .Net Developer.
-- 💻 Building full-stack web apps with **C#**, **ASP.NET Core**, and **.NET MAUI**
-- 🚀 Exploring real-world applications through personal and university projects
-
+- 🚀 Preparing for a professional career as a **.NET Developer**
+- 💻 Building web applications with **C#**, **ASP.NET Core**, and exploring **.NET MAUI**
+- 🧩 Developing real-world projects that strengthen my back-end, front-end, and architectural skills
+  
 ---
 
 ## 🧰 Tech Stack
@@ -19,6 +19,7 @@
 ### 👨‍💻 Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40"/>
@@ -29,6 +30,9 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40"/>
   <img src=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fms-dotnettools.gallerycdn.vsassets.io%2Fextensions%2Fms-dotnettools%2Fdotnet-maui%2F0.9.3%2F1707942975002%2FMicrosoft.VisualStudio.Services.Icons.Default&f=1&nofb=1&ipt=6c0f2fadc9a5b232d0452f0e86c4940cff89a8f70ee5b2bb15bca7ec84e43258" alt=".NET MAUI" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" alt="NuGet" width="40"/>
 </p>
 
 ### 🗄️ Databases
